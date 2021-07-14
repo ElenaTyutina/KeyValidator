@@ -12,7 +12,7 @@
 
 * В результате работы вывод приложения на валидном ключе показал ошибку:
 
- [KeyValidator](https://github.com/ElenaTyutina/KeyValidator/issues/1)
+ [Валидация ключа 00000000-0000-0000-0000-000000000000 в приложении KeyValidator](https://github.com/ElenaTyutina/KeyValidator/issues/1)
 
 ![ошибка](https://i.imgur.com/stYnRCF.png)
 
