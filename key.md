@@ -14,7 +14,7 @@
 
  [KeyValidator](https://github.com/ElenaTyutina/KeyValidator/issues/1)
 
-![https://i.imgur.com/stYnRCF.png]
+![ошибка](https://i.imgur.com/stYnRCF.png)
 
 ## Описание процесса тестирования
 
